@@ -12,3 +12,8 @@ Here are some ideas to get you started:
 - 💬 Ask me everything (except pascal)
 - 📫 How to reach me: **@oleggius** (Telegram)
 
+[![Github stats](https://github-readme-stats.vercel.app/api?username=OlegSadJktu&show_icons=true&include_all_commits=true)](https://github.com/OlegSadJktu/github-readme-stats)
+### How to contact me?
+- **Telegram** @oleggius
+- **VK** @oleggius
+- **Email** plyuha2004@mail.ru
