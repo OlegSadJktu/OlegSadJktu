@@ -1,7 +1,7 @@
 # Hi, i'm Krivoshein Oleg 👋
 
 
-**OlegSadJktu** is 17 y.o.
+**OlegSadJktu** is 20 y.o.
 
 Here are some ideas to get you started:
 
